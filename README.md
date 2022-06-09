@@ -1,17 +1,15 @@
 
 # Exercício realizado durante a trilha de banco de dados do alura, por meio da five. 
 
-Descrição
-Nesse exercício de Banco de Dados, você vai precisar usar seus conhecimentos
-aprendidos nessa trilha para solucionar os problemas descritos abaixo.
-Exercício 01
-Uma das tabelas de uma Livraria foi criada para gerenciar e armazenar livros com a
-seguinte estrutura:
-Seu desafio é criar uma query que retorne as seguintes colunas:
+
+# Exercício 01
+## Uma das tabelas de uma Livraria foi criada para gerenciar e armazenar livros com a
+## seguinte estrutura:
+## Seu desafio é criar uma query que retorne as seguintes colunas:
 ●
 ●
 ●
-livro_id
+# livro_id
 nome
 maximo_tempo_reserva
 AND retornar apenas os livros que podem ser reservados por um tempo de reserva maior
